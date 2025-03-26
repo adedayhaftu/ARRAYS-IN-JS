@@ -1,1 +1,1 @@
-# ARRAYS-IN-JS
+This repository contains some array codes.
